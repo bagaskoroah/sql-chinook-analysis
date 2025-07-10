@@ -6,6 +6,14 @@ Each case is written with a focus on real-world business questions and industry-
 
 ---
 
+## 🧩 Database Schema
+
+![Chinook ERD](./data/chinook-erd.jpg)
+
+The Chinook database includes tables for customers, invoices, tracks, genres, artists, and more. This schema supports transactional queries and business analytics use cases.
+
+---
+
 ## Selected Use Cases
 
 | Case | Title | Description |
@@ -50,7 +58,10 @@ Each case is written with a focus on real-world business questions and industry-
 
 ## Author
 
-Created by **Bagaskoro Adi Hutomo**  
+Created by **Bagaskoro Adi Hutomo** 
+
 Please feel free to contact me for further discussion on: 
-LinkedIn: www.linkedin.com/in/bagaskoroah 
-Email: bagaskoroah@gmail.com
+- LinkedIn: www.linkedin.com/in/bagaskoroah
+- Email: bagaskoroah@gmail.com
+
+Thanks! :)
